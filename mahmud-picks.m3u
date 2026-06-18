@@ -1,0 +1,24 @@
+#EXTM3U x-tvg-url=""
+
+#EXTINF:-1 tvg-name="Somoy TV New" group-title="Bangladesh",Somoy TV New
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+#EXTINF:-1 tvg-name="Stream 32" group-title="Sports",Stream 32
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+#EXTINF:-1 tvg-name="FIFA 2026 — BTV" tvg-logo="" group-title="Football World Cup 2026",FIFA 2026 — BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 tvg-name="FIFA 2026 — T Sports" tvg-logo="" group-title="Football World Cup 2026",FIFA 2026 — T Sports
+https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="FIFA 2026 — T Sports Alt" tvg-logo="" group-title="Football World Cup 2026",FIFA 2026 — T Sports Alt
+https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1779283784&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3b4c5a2cfa872fa7f91ffbfb4aa0f658
+#EXTINF:-1 tvg-name="FIFA 2026 — Somoy TV" tvg-logo="" group-title="Football World Cup 2026",FIFA 2026 — Somoy TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 tvg-name="FIFA 2026 — PTV Sports" tvg-logo="" group-title="Football World Cup 2026",FIFA 2026 — PTV Sports
+https://tvsen5.aynaott.com/PtvSports/index.m3u8
+#EXTINF:-1 tvg-name="FIFA 2026 — TYC Sports" tvg-logo="" group-title="Football World Cup 2026",FIFA 2026 — TYC Sports
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 tvg-name="FIFA 2026 — Fox Sports 2" tvg-logo="" group-title="Football World Cup 2026",FIFA 2026 — Fox Sports 2
+https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1779283790&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=cbb7f40b4af7be51a91e0629a5ac7238
+#EXTINF:-1 tvg-name="Somoy FIFA World Cup 2026" tvg-logo="" group-title="Football World Cup 2026",Somoy FIFA World Cup 2026
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=2202800.m3u8
+#EXTINF:-1 tvg-name="Coze TV FIFA World Cup 2026" tvg-logo="" group-title="Football World Cup 2026",Coze TV FIFA World Cup 2026
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8

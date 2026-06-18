@@ -1,0 +1,86 @@
+#EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/T_Sports_logo.png" group-title="Sports",T Sports HD
+https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Star Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Star_Sports_1_logo.png" group-title="Sports",Star Sports 1
+https://tvsen7.aynaott.com/sspts1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Star Sports 1 Alt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Star_Sports_1_logo.png" group-title="Sports",Star Sports 1 Alt
+https://tvsen7.aynaott.com/sspts1/index.m3u8
+#EXTINF:-1 tvg-name="Bein Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/BeIN_Sports_1.png/220px-BeIN_Sports_1.png" group-title="Sports",Bein Sports 1
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-name="Bein Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/BeIN_Sports_2.png/220px-BeIN_Sports_2.png" group-title="Sports",Bein Sports 2
+https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
+#EXTINF:-1 tvg-name="Bein Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/BeIN_Sports_3.png/220px-BeIN_Sports_3.png" group-title="Sports",Bein Sports 3
+https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
+#EXTINF:-1 tvg-name="Bein Sports 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/BeIN_Sports_4.png/220px-BeIN_Sports_4.png" group-title="Sports",Bein Sports 4
+https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
+#EXTINF:-1 tvg-name="Bein Sports 4 Amagi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/BeIN_Sports_4.png/220px-BeIN_Sports_4.png" group-title="Sports",Bein Sports 4 Amagi
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-name="beIN Sports Xtra" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/Bein_sports_xtra.png" group-title="Sports",beIN Sports Xtra
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+#EXTINF:-1 tvg-name="Bein Sports 1 Alt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/BeIN_Sports_1.png/220px-BeIN_Sports_1.png" group-title="Sports",Bein Sports 1 Alt
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="Sports",ESPN
+https://tvsen5.aynaott.com/espn/index.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/FOX_Sports_2_2015.png/220px-FOX_Sports_2_2015.png" group-title="Sports",Fox Sports 2
+https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1779283790&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=cbb7f40b4af7be51a91e0629a5ac7238
+#EXTINF:-1 tvg-name="Willow HD TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Willow_TV_logo.png" group-title="Sports",Willow HD TV
+https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1779283803&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2fe7bf4f892cf09f80087b8146545bad
+#EXTINF:-1 tvg-name="Cricket Gold" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Cricket_Gold.png" group-title="Sports",Cricket Gold
+https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/bfc6a36e-c250-4afe-b6c9-2bc57855bb7d/4.m3u8
+#EXTINF:-1 tvg-name="Euro TV Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/EuroSport_logo.svg/320px-EuroSport_logo.svg.png" group-title="Sports",Euro TV Sports HD
+https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
+#EXTINF:-1 tvg-name="ASports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/A_Sports_TV_logo.png" group-title="Sports",ASports
+https://tvsen6.aynaott.com/asports/index.m3u8
+#EXTINF:-1 tvg-name="PTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/PTV_Sports_logo.png" group-title="Sports",PTV Sports
+https://tvsen5.aynaott.com/PtvSports/index.m3u8
+#EXTINF:-1 tvg-name="Tyc Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TyC_Sports_logo.svg/320px-TyC_Sports_logo.svg.png" group-title="Sports",Tyc Sports
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 tvg-name="TSN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/TSN1_logo.svg/320px-TSN1_logo.svg.png" group-title="Sports",TSN 1
+https://tvsen7.aynaott.com/tsn1/index.m3u8
+#EXTINF:-1 tvg-name="TSN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TSN2_logo.svg/320px-TSN2_logo.svg.png" group-title="Sports",TSN 2
+https://tvsen7.aynaott.com/tsn2/index.m3u8
+#EXTINF:-1 tvg-name="TSN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/TSN3_logo.svg/320px-TSN3_logo.svg.png" group-title="Sports",TSN 3
+https://tvsen7.aynaott.com/tsn3/index.m3u8
+#EXTINF:-1 tvg-name="A SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/A_Spor_logo.png/220px-A_Spor_logo.png" group-title="Sports",A SPOR
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
+#EXTINF:-1 tvg-name="Real Madrid TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg" group-title="Sports",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:-1 tvg-name="FIFA 2026 — BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/BTV_Bangladesh_Television.svg/220px-BTV_Bangladesh_Television.svg.png" group-title="Football World Cup 2026",FIFA 2026 — BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 tvg-name="FIFA 2026 — T Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/T_Sports_logo.png" group-title="Football World Cup 2026",FIFA 2026 — T Sports
+https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="FIFA 2026 — Somoy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/Somoy_TV_Logo.png" group-title="Football World Cup 2026",FIFA 2026 — Somoy TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 tvg-name="FIFA 2026 — PTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/PTV_Sports_logo.png" group-title="Football World Cup 2026",FIFA 2026 — PTV Sports
+https://tvsen5.aynaott.com/PtvSports/index.m3u8
+#EXTINF:-1 tvg-name="FIFA 2026 — TYC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TyC_Sports_logo.svg/320px-TyC_Sports_logo.svg.png" group-title="Football World Cup 2026",FIFA 2026 — TYC Sports
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 tvg-name="FIFA 2026 — Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/FOX_Sports_2_2015.png/220px-FOX_Sports_2_2015.png" group-title="Football World Cup 2026",FIFA 2026 — Fox Sports 2
+https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1779283790&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=cbb7f40b4af7be51a91e0629a5ac7238
+#EXTINF:-1 tvg-name="Somoy FIFA World Cup 2026" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/Somoy_TV_Logo.png" group-title="Football World Cup 2026",Somoy FIFA World Cup 2026
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=2202800.m3u8
+#EXTINF:-1 tvg-name="Coze TV FIFA World Cup 2026" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/FIFA_World_Cup_logo.png" group-title="Football World Cup 2026",Coze TV FIFA World Cup 2026
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+#EXTINF:-1 tvg-name="Somoy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/Somoy_TV_Logo.png" group-title="Bangladesh",Somoy TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/51/NTV_Bangladesh_logo.png" group-title="Bangladesh",NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1181200.m3u8
+#EXTINF:-1 tvg-name="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/RTV_Bangladesh.png" group-title="Bangladesh",RTV
+https://tvsen6.aynaott.com/rtv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Jamuna TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Jamuna_Television_Logo.png" group-title="Bangladesh",Jamuna TV
+https://tvsen6.aynaott.com/jamunatv/index.m3u8?e=1779283771&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2592d440f00d65738bd7f6c5158ce486
+#EXTINF:-1 tvg-name="Ekattor TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/62/Ekattor_TV_Logo.png" group-title="Bangladesh",Ekattor TV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705.m3u8
+#EXTINF:-1 tvg-name="Channel I" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Channel_i_logo.png" group-title="Bangladesh",Channel I
+https://tvsen6.aynaott.com/channeli/index.m3u8?e=1779283749&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=1d2782c406bc6c9f853716c3dc41a439
+#EXTINF:-1 tvg-name="Channel 24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Channel_24_logo.png" group-title="Bangladesh",Channel 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=2202800.m3u8
+#EXTINF:-1 tvg-name="Channel 9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Channel_9_Bangladesh.png" group-title="Bangladesh",Channel 9 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-video=1181200.m3u8
+#EXTINF:-1 tvg-name="ATN News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/ATN_Bangla_logo.png" group-title="Bangladesh",ATN News HD
+https://tvsen5.aynaott.com/atnbangla/index.m3u8?e=1779283752&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e20058ae495a80a83ec09cb9d82b9253
+#EXTINF:-1 tvg-name="Deepto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/Deepto_TV_logo.png" group-title="Bangladesh",Deepto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+#EXTINF:-1 tvg-name="News 24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/News24_Bangladesh.png" group-title="Bangladesh",News 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+#EXTINF:-1 tvg-name="DBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/DBC_News_logo.png" group-title="Bangladesh",DBC News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
