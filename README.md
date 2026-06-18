@@ -1,6 +1,6 @@
 # 📺 IPTV Flow Sources
 
-> Personal curated IPTV channel collection by [@mahmudulbisd](https://github.com/mahmudulbisd)
+> Personal curated IPTV channel collection by [@HostBDSupport](.)
 
 ---
 
@@ -67,8 +67,8 @@ Settings → Live TV → M3U Playlist → URL যোগ করুন
 **IPTV Flow** — Free Web-Based IPTV Player & Link Checker
 
 🔗 [iptv-flow.vibepreview.com](https://iptv-flow.vibepreview.com)
-👤 [facebook.com/mahmudulbisd](https://facebook.com/mahmudulbisd)
-💻 [github.com/mahmudulbisd](https://github.com/mahmudulbisd)
+👤 [facebook.com/mahmudulbisd](https://www.facebook.com/md.kawsour.ahamed)
+💻 [github.com/mahmudulbisd]()
 
 ---
 
